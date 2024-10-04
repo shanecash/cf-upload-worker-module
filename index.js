@@ -18,7 +18,6 @@ async function main() {
 
     const metadata = {
         main_module: "worker.js",
-        usage_model: "bundled",
         bindings: [],
     };
 
